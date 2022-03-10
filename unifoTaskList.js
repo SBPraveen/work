@@ -25,6 +25,7 @@
     ?8. Duty calculation:
         Wrote node logic and  for BCD, ACD, AIDC, CHC, EXIM, IGST, NCCD and SWS. 
         dutyCalcOp => A table that stores all the duty calculated.
+        mastersDataTable => Code optimization. Once the a hsn or notification data gets fetched it gets stored in the table so that the next time there is no need to make an API call.
         currencyConversion => Converts the currency by fetching the conversion rate from aws(also contributed by sashi)
 
     ?9. Converted text box to dropdown:

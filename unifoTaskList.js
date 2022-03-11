@@ -29,7 +29,7 @@
         currencyConversion => Converts the currency by fetching the conversion rate from aws(also contributed by sashi)
 
     ?9. Converted text box to dropdown:
-        In the line item bulk edit converted text fields to auto complete.
+        In the line item bulk edit converted text fields to auto complete. There were a lot of bugs created in this task but assisted the people who solved it
 
     ?10. Removed lag in the checkbox:
         Since there were many API calls happening in the onchange of the checkbox there was a lag.

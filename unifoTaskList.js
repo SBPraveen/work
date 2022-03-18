@@ -36,6 +36,9 @@
         Identified the bug and used onblur.
 
     ?11. N number of design QA
+
+    ?12. Checklist API
+        Designed a template to generate single row tables in latex and node
     
 
 */

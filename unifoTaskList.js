@@ -38,7 +38,8 @@
     ?11. N number of design QA
 
     ?12. Checklist API
-        Designed a template to generate single row tables in latex and node
+        Designed a double row IGM table.
+        Designed a template (latex and node) that creates single row tables(dynamic number of columns and dynamic column width) for generating checklist PDF
     
 
 */
